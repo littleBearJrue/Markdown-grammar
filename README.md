@@ -36,7 +36,7 @@
 1. 文本链接： []()
 > [这是一个文本链接](https://github.com/littleBearJrue/Markdown-grammar)
 
-2. 图片链接：![]()
+2. 图片链接：! + 文本链接的方式
 >![这是个图片链接](http://image34.360doc.com/DownloadImg/2011/08/1813/16018244_2.jpg)
 
 ### 代码框
